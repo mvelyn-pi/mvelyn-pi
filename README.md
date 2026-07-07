@@ -6,9 +6,10 @@ Backend & AI 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 | Specialized in Larav
 
 𝗧𝗲𝗰𝗵
 
-| 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 | 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 | 𝗔𝗜 / 𝗠𝗟 | 𝗢𝘁𝗵𝗲𝗿 |
-|--------|----------|---------|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="28"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> |
+| 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 | 𝗠𝗼𝗯𝗶𝗹𝗲 | 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 & 𝗕𝗮𝗮𝗦 | 𝗔𝗜 / 𝗠𝗟 | 𝗢𝘁𝗵𝗲𝗿 |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" alt="Laravel"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28" alt="Flutter"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="28" alt="Supabase"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="28" alt="Hugging Face"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28" alt="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git"/> |
+
 
 ---
 
