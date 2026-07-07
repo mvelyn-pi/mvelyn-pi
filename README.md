@@ -1,8 +1,6 @@
 # Muh. Ardiansyah
 
-𝘑𝘶𝘯𝘪𝘰𝘳 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘣𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘈𝘐 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.
-𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘓𝘢𝘳𝘢𝘷𝘦𝘭, 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘮𝘢𝘤𝘩𝘪𝘯𝘦 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘏𝘶𝘨𝘨𝘪𝘯𝘨 𝘍𝘢𝘤𝘦,
-𝘢𝘯𝘥 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘤𝘭𝘦𝘢𝘯 𝘴𝘦𝘳𝘷𝘦𝘳-𝘴𝘪𝘥𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴.
+Backend & AI 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 | Specialized in Laravel and server-side applications. Currently learning and integrating advanced ML models with Hugging Face & local LLMs.
 
 ---
 
